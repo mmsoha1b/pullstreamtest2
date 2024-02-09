@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-container{
+  @apply relative w-1/2 shadow-xl rounded-md border-gray-400 border-2  top-[50%] p-4 left-[50%] -translate-x-1/2 -translate-y-1/2 bg-white
+}
+.modal-bg{
+  @apply absolute w-[100dvw] h-[100dvh] top-0 left-0 bg-[rgba(200,200,200,0.5)]
+}

@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Name",
+      "designation": "manager",
+      "salary": "1000",
+      "startDate": "1707485951155"
+    },
+    {
+      "id": "1",
+      "name": "j",
+      "designation": "manager",
+      "salary": "1111",
+      "startDate": 1707004800000
+    },
+    {
+      "id": "a544",
+      "name": "111",
+      "designation": "hr",
+      "salary": 1111,
+      "startDate": 1707264000000
+    },
+    {
+      "id": "8e7b",
+      "name": "as",
+      "designation": "manager",
+      "salary": 1110,
+      "startDate": "1707485951155"
+    },
+    {
+      "id": "e645",
+      "name": "aaa",
+      "designation": "manager",
+      "salary": 1111,
+      "startDate": 1707436800000
+    }
+  ]
+}

@@ -1,10 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import {
-  convertDateInputToUTC,
-  convertUTCToDateInputString,
-} from "../utils/date";
+import { convertUTCToDateInputString } from "../utils/date";
 import { mutate } from "swr";
 
 import { toast } from "react-hot-toast";
